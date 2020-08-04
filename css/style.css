@@ -1,0 +1,20 @@
+body {
+    background-color: #000;
+    color: #fff;
+font-family: 'Raleway', sans-serif;
+
+}
+
+.wrapper {
+    /*  display: flex;*/
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 20%;
+    align-items: center;
+    justify-content: center;
+    /*    height: 100vh;*/
+}
+#typed {
+    font-family: 'Raleway', sans-serif;
+
+}
