@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     startDelay: 1000,
     loop: true,
     loopCount: Infinity,
+    fadeOut: true
   });
 
 });
